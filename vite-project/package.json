@@ -2,6 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ravi-raj6668.github.io/React-Course/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -25,6 +26,6 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "gh-pages": "^6.1.1",
     "vite": "^5.2.0"
-  },
-  "homepage": "https://ravi-raj6668.github.io/React-Course/"
+  }
+  
 }
